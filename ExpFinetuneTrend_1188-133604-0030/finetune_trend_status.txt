@@ -1,0 +1,11 @@
+seconds: 1143.26
+run times: 1
+reg setting: 0.2
+source transcript: he knows them both
+target phrase: power off
+starting PESQ: 4.643888473510742
+ending PESQ: 3.9935784339904785
+starting SNR: 100
+ending SNR: 30.283377336593425
+hp cutoff frequency: 400 HZ
+iterations: 5000, 3000

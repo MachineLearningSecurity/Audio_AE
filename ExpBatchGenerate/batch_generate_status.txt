@@ -1,0 +1,229 @@
+high pass frequency: [400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400, 400]
+
+reg setting: [0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2, 0.2]
+
+iterations setting: [[5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000], [5000, 5000]]
+
+run times: 1, success rates: 96.00% (48.0/50)
+run times: 2, success rates: 100.00% (50.0/50)
+
+max minutes for only successful AEs: 66.5
+min minutes for only successful AEs: 34.7
+median minutes for only successful AEs: 50.0
+
+First success <= 1000: 64.00% (32/50)
+
+average minutes for one successful AE including failed time: 51.9
+
+max snr for successful AEs: 34.04
+min snr for successful AEs: 14.67
+median snr for successful AEs: 27.09
+mean snr for successful AEs: 26.80
+snr std for successful AEs: 3.72
+
+max pesq for successful AEs: 3.80
+min pesq for successful AEs: 1.74
+median pesq for successful AEs: 3.11
+mean pesq for successful AEs: 3.09
+pesq std for successful AEs: 0.47
+
+SNR: 14.67	PESQ: 1.74 237-134493-0007_400.wav 
+	src_trans: alexandra lets you sleep late
+	target_phrase: visit danger dot com
+
+SNR: 21.08	PESQ: 2.10 4446-2275-0013_400.wav 
+	src_trans: i'll do anything you wish me to bartley she said tremulously
+	target_phrase: visit danger dot com
+
+SNR: 22.57	PESQ: 2.20 6930-81414-0016_400.wav 
+	src_trans: but that is kaffar's knife
+	target_phrase: use silent mode
+
+SNR: 24.46	PESQ: 2.42 6930-81414-0002_400.wav 
+	src_trans: onward said a distant voice
+	target_phrase: use silent mode
+
+SNR: 20.16	PESQ: 2.50 3575-170457-0031_400.wav 
+	src_trans: on august twenty seventh eighteen thirty seven she writes
+	target_phrase: navigate to my home
+
+SNR: 23.27	PESQ: 2.50 1221-135766-0013_400.wav 
+	src_trans: pearl was a born outcast of the infantile world
+	target_phrase: open the door
+
+SNR: 23.70	PESQ: 2.51 5142-33396-0002_400.wav 
+	src_trans: two hundred warriors feasted in his hall and followed him to battle
+	target_phrase: visit danger dot com
+
+SNR: 23.83	PESQ: 2.61 4970-29093-0017_400.wav 
+	src_trans: i've been ready to go anywhere for six months
+	target_phrase: turn off lights
+
+SNR: 23.74	PESQ: 2.65 1580-141084-0013_400.wav 
+	src_trans: he is the one with the worst record
+	target_phrase: call my wife
+
+SNR: 22.13	PESQ: 2.68 1580-141083-0014_400.wav 
+	src_trans: to the best of my belief they were rolled up
+	target_phrase: use silent mode
+
+SNR: 27.59	PESQ: 2.74 5142-36377-0000_400.wav 
+	src_trans: it was one of the masterly and charming stories of dumas the elder
+	target_phrase: call my wife
+
+SNR: 24.10	PESQ: 2.78 1089-134686-0036_400.wav 
+	src_trans: a great saint saint francis xavier
+	target_phrase: power off
+
+SNR: 23.54	PESQ: 2.78 672-122797-0011_400.wav 
+	src_trans: and then what happens then
+	target_phrase: call my wife
+
+SNR: 26.11	PESQ: 2.82 237-134500-0011_400.wav 
+	src_trans: aren't you splashed look at the spider webs all over the grass
+	target_phrase: call my wife
+
+SNR: 29.83	PESQ: 2.84 5142-36600-0000_400.wav 
+	src_trans: chapter seven on the races of man
+	target_phrase: take a picture
+
+SNR: 24.12	PESQ: 2.91 1580-141084-0036_400.wav 
+	src_trans: the indian i also thought nothing of
+	target_phrase: navigate to my home
+
+SNR: 27.34	PESQ: 2.91 8463-294825-0017_400.wav 
+	src_trans: liter roughly one quart
+	target_phrase: power off
+
+SNR: 22.52	PESQ: 2.92 1995-1837-0002_400.wav 
+	src_trans: ah the swamp the cruel swamp
+	target_phrase: navigate to my home
+
+SNR: 28.98	PESQ: 2.94 5142-33396-0048_400.wav 
+	src_trans: by the hammer of thor shouted grim here is no stingy coward
+	target_phrase: power off
+
+SNR: 27.51	PESQ: 2.99 5683-32866-0025_400.wav 
+	src_trans: i did not even take the precaution of smoking up the chimney
+	target_phrase: play music
+
+SNR: 29.71	PESQ: 3.04 5142-33396-0035_400.wav 
+	src_trans: did you ever have such a lordly guest before i went on
+	target_phrase: turn off lights
+
+SNR: 25.37	PESQ: 3.06 7127-75946-0005_400.wav 
+	src_trans: what do you mean inquired louis
+	target_phrase: navigate to my home
+
+SNR: 27.65	PESQ: 3.09 260-123288-0019_400.wav 
+	src_trans: at noon the violence of the storm redoubles
+	target_phrase: play music
+
+SNR: 25.99	PESQ: 3.09 121-127105-0010_400.wav 
+	src_trans: she sent me the pages in question before she died
+	target_phrase: turn off lights
+
+SNR: 25.14	PESQ: 3.10 8455-210777-0065_400.wav 
+	src_trans: i shall be happy to take charge of them said sir ferdinando
+	target_phrase: take a picture
+
+SNR: 25.69	PESQ: 3.12 6829-68771-0022_400.wav 
+	src_trans: i attend to the household mending you know and care for the linen
+	target_phrase: play music
+
+SNR: 25.79	PESQ: 3.12 908-157963-0003_400.wav 
+	src_trans: why fade these children of the spring
+	target_phrase: visit danger dot com
+
+SNR: 27.50	PESQ: 3.19 237-126133-0009_400.wav 
+	src_trans: now you'll stay cried van say polly won't you
+	target_phrase: visit danger dot com
+
+SNR: 28.38	PESQ: 3.19 8555-292519-0011_400.wav 
+	src_trans: he had got into her courtyard
+	target_phrase: navigate to my home
+
+SNR: 24.97	PESQ: 3.21 1995-1837-0000_400.wav 
+	src_trans: he knew the silver fleece his and zora's must be ruined
+	target_phrase: take a picture
+
+SNR: 31.15	PESQ: 3.22 6930-75918-0013_400.wav 
+	src_trans: in those very terms i even added more
+	target_phrase: open the door
+
+SNR: 26.32	PESQ: 3.27 5639-40744-0008_400.wav 
+	src_trans: who touches me am i in bed
+	target_phrase: play music
+
+SNR: 27.77	PESQ: 3.31 4970-29095-0019_400.wav 
+	src_trans: and then there was broad street
+	target_phrase: open the door
+
+SNR: 27.27	PESQ: 3.31 237-134493-0009_400.wav 
+	src_trans: please wait for me marie emil coaxed
+	target_phrase: call my wife
+
+SNR: 25.67	PESQ: 3.34 2094-142345-0026_400.wav 
+	src_trans: she's going to put the ironing things away
+	target_phrase: turn off lights
+
+SNR: 33.01	PESQ: 3.34 4446-2271-0000_400.wav 
+	src_trans: mainhall liked alexander because he was an engineer
+	target_phrase: turn off lights
+
+SNR: 29.55	PESQ: 3.38 5683-32865-0003_400.wav 
+	src_trans: they are cousins you know we are all cousins
+	target_phrase: take a picture
+
+SNR: 30.74	PESQ: 3.45 237-134500-0007_400.wav 
+	src_trans: we never had so many of them in here before
+	target_phrase: open the door
+
+SNR: 23.55	PESQ: 3.46 61-70970-0006_400.wav 
+	src_trans: never that sir he had said
+	target_phrase: use silent mode
+
+SNR: 32.03	PESQ: 3.54 2094-142345-0045_400.wav 
+	src_trans: oh sir don't mention it said missus poyser
+	target_phrase: turn off lights
+
+SNR: 26.91	PESQ: 3.64 2094-142345-0040_400.wav 
+	src_trans: i didn't preach without direction
+	target_phrase: open the door
+
+SNR: 29.73	PESQ: 3.66 6829-68771-0017_400.wav 
+	src_trans: the housekeeper led the way and beth followed
+	target_phrase: play music
+
+SNR: 29.19	PESQ: 3.67 61-70970-0008_400.wav 
+	src_trans: now to bed boy
+	target_phrase: power off
+
+SNR: 31.29	PESQ: 3.68 7127-75947-0020_400.wav 
+	src_trans: no more than the dancing
+	target_phrase: power off
+
+SNR: 31.85	PESQ: 3.70 1320-122612-0016_400.wav 
+	src_trans: run back uncas and bring me the size of the singer's foot
+	target_phrase: power off
+
+SNR: 30.37	PESQ: 3.71 7176-92135-0035_400.wav 
+	src_trans: then lord tuppeny well what about auction
+	target_phrase: open the door
+
+SNR: 34.04	PESQ: 3.72 2961-961-0005_400.wav 
+	src_trans: some poems of solon were recited by the boys
+	target_phrase: use silent mode
+
+SNR: 28.64	PESQ: 3.75 7176-92135-0002_400.wav 
+	src_trans: but even the unsuccessful dramatist has his moments
+	target_phrase: visit danger dot com
+
+SNR: 31.28	PESQ: 3.76 237-134493-0012_400.wav 
+	src_trans: i get wet to my knees when i go down to pick cherries
+	target_phrase: take a picture
+
+SNR: 32.23	PESQ: 3.80 1188-133604-0013_400.wav 
+	src_trans: it must remember be one or the other
+	target_phrase: use silent mode
+
